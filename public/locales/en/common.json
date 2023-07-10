@@ -1,0 +1,102 @@
+{
+    "navigation" : {
+        "home" : "Home",
+        "features" : "Features",
+        "expenseTracking" : "Expense Tracking",
+        "costCalculation" : "Cost Calculation",
+        "periodicReminder" : "Periodic Reminder",
+        "expenseSharing" : "Expense Sharing",
+        "reportsAndAnalysis" : "Reports and Analysis",
+        "pricing" : "Pricing",
+        "faq" : "FAQ",
+        "contacts" : "Contacts",
+        "team" : "Team",
+        "privacy" : "Privacy",
+        "terms" : "Terms",
+        "helpCenter" : "Help Center",
+        "serviceStatus" : "Service Status",
+        "emailNewsletter" : "Email Newsletter",
+        "suggestionsAndIdeas" : "Suggestions and Ideas",
+        "support" : "Support",
+        "info" : "Info",
+        "about" : "About",
+        "login" : "Login",
+        "register" : "Register",
+        "logout" : "Logout",
+        "expenseTrackingDescription" : "Track your expenses and manage your budget",
+        "costCalculationDescription" : "Calculate the cost of your expenses",
+        "periodicReminderDescription" : "Set periodic reminders for your expenses",
+        "expenseSharingDescription" : "Share your expenses with your friends",
+        "reportsAndAnalysisDescription" : "Generate reports and analyze your expenses",
+        "appShortDescription" : "Keep track of your expenses, monitor your expenses and keep your budget under control."
+    },
+    "cookie": {
+        "banner": {
+            "title": "Cookie Policy",
+            "message" : "This website uses cookies to ensure you get the best experience on our website."
+        },
+        "otherInformation" : {
+            "title" : "Cookie Policy",
+            "paragraph": {
+                "0" : {
+                    "title": "Technical cookies",
+                    "description": "Technical cookies are essential for the proper functioning of our website. These include:",
+                    "table": {
+                        "0_value": "language",
+                        "0_description": "Allows you to store the language selected by the user",
+                        "1_value": "cookie_consent",
+                        "1_description": "Allows you to store the user's acceptance for the use of cookies"
+                    }
+                },
+                "1": {
+                    "title": "Analytical cookies",
+                    "description": "We use analytical cookies to collect information about how visitors use our website. This information helps us improve our website and the services we offer.",
+                    "table": {
+                        "0_value" : "Google Analytics",
+                        "0_description": "Allows you to understand how visitors interact with the website by collecting and reporting information anonymously"
+                    }
+                },
+                "2": {
+                    "title": "Consent",
+                    "description": "By continuing to browse our website, you consent to the use of these cookies. You can change your cookie preferences at any time in your browser settings."
+                }
+            }
+        }
+    },
+    "hero" : {
+        "title" : "With PayPatrol you can <1>track</1> and <1>save</1>",
+        "subTitle" : "Share your expenses with other users in a collaborative way",
+        "features" : {
+            "0": "<b>Easy to use</b> – with a simple and intuitive interface",
+            "1": "<b>Collaborative</b> – you can invite your friends and/or family to collaborate",
+            "2": "<b>Free plan</b> – you can start using PayPatrol for free"
+        },
+        "callToAction" : "Start now"
+    },
+    "features": {
+        "title": "Don't waste time, start now!",
+        "description": "It's difficult to keep track of all your activities, but with our service you can do it easily and quickly.",
+        "feature":{
+            "0": {
+                "title": "Performant",
+                "description": "Manage recurring and non-recurring expenses and keep track of subscriptions and automatic payments"
+            },
+            "1": {
+                "title": "Collaborative",
+                "description": "Share your expenses with friends or family in a collaborative way"
+            },
+            "2": {
+                "title": "Easy",
+                "description": "Simple and intuitive interface"
+            }
+        }
+    },
+    "commons": {
+        "description": "description",
+        "btnActions": {
+            "back": "Back",
+            "accept": "Accept",
+            "otherInfo" : "Other information"
+        }
+    }
+}

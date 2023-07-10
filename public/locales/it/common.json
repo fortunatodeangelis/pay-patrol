@@ -1,0 +1,102 @@
+{
+    "navigation" : {
+        "home" : "Home",
+        "features" : "Funzionalità",
+        "expenseTracking" : "Monitoraggio delle spese",
+        "costCalculation" : "Calcolo Costi",
+        "periodicReminder" : "Promnemoria Periodici",
+        "expenseSharing" : "Condivisione Spese",
+        "reportsAndAnalysis" : "Rapporti e Analisi",
+        "pricing" : "Prezzi",
+        "faq" : "FAQ",
+        "contacts" : "Contatti",
+        "team" : "Team",
+        "privacy" : "Privacy",
+        "terms" : "Termini",
+        "helpCenter" : "Centro Assistenza",
+        "serviceStatus" : "Stato del servizio",
+        "emailNewsletter" : "Email newsletter",
+        "suggestionsAndIdeas" : "Suggerimenti e idee",
+        "support" : "Supporto",
+        "info" : "Informazioni",
+        "about" : "Chi siamo",
+        "login" : "Accedi",
+        "register" : "Registrati",
+        "logout" : "Esci",
+        "expenseTrackingDescription" : "Monitora le tue spese e tieni sotto controllo il tuo budget",
+        "costCalculationDescription" : "Calcola i costi mensili e annuali delle tue spese",
+        "periodicReminderDescription" : "Ricevi promemoria periodici per le tue spese",
+        "expenseSharingDescription" : "Condividi le tue spese con altri utenti in modo collaborativo",
+        "reportsAndAnalysisDescription" : "Visualizza i tuoi dati in modo grafico e analizza le tue spese",
+        "appShortDescription" : "Tieni traccia delle tue spese, monitora le tue uscite e tieni sotto controllo il tuo budget."
+    },
+    "cookie": {
+        "banner": {
+            "title": "Informazioni sui cookie",
+            "message" : "Questo sito utilizza i cookie per fornire i propri servizi e per analizzare il traffico. Utilizzando questo sito, accetti l'utilizzo dei cookie."
+        },
+        "otherInformation" : {
+            "title" : "Informativa sui cookie",
+            "paragraph": {
+                "0" : {
+                    "title": "Cookie tecnici",
+                    "description": "I cookie tecnici sono essenziali per il corretto funzionamento del nostro sito web. Questi includono:",
+                    "table": {
+                        "0_value": "language",
+                        "0_description": "Consente di memorizzare la lingua selezionata dall'utente",
+                        "1_value": "cookie_consent",
+                        "1_description": "Consente di memorizzare l'accettazione dell'utente per l'utilizzo dei cookie"
+                    }
+                },
+                "1": {
+                    "title": "Cookie Analitici",
+                    "description": "Utilizziamo i cookie analitici per raccogliere informazioni su come i visitatori utilizzano il nostro sito web. Queste informazioni ci aiutano a migliorare il nostro sito web e i servizi che offriamo.",
+                    "table": {
+                        "0_value" : "Google Analytics",
+                        "0_description": "Consente di comprendere come i visitatori interagiscono con il sito web raccogliendo e segnalando informazioni in forma anonima"
+                    }
+                },
+                "2": {
+                    "title": "Consenso",
+                    "description": "Continuando a navigare sul nostro sito web, acconsenti all'utilizzo di questi cookie. Puoi modificare le tue preferenze sui cookie in qualsiasi momento nelle impostazioni del tuo browser."
+                }
+            }
+        }
+    },
+    "hero" : {
+        "title" : "Con PayPatrol puoi <1>Monitorare</1> e <1>Risparmiare</1>",
+        "subTitle" : "Condividi le tue spese con altri utenti in modo collaborativo",
+        "features" : {
+            "0": "<b>Facile da usare</b> – con un'interfaccia semplice e intuitiva",
+            "1": "<b>Collaborativo</b> – puoi invitare i tuoi amici e/o familiari a collaborare",
+            "2": "<b>Piano Gratuito</b> – puoi iniziare a usare PayPatrol gratuitamente"
+        },
+        "callToAction" : "Inizia ora"
+    },
+    "features": {
+        "title": "Non perdere tempo, inizia subito!",
+        "description": "E' difficle tenere traccia di tutte le tue attività, ma con il nostro servizio puoi farlo in modo semplice e veloce.",
+        "feature":{
+            "0": {
+                "title": "Performante",
+                "description": "Gestione delle spese ricorrenti e non e di tenere traccia delle sottoscrizioni e dei pagamenti automatici"
+            },
+            "1": {
+                "title": "Collaborativo",
+                "description": "Condividi le tue spese con amici o familiari in modo collaborativo"
+            },
+            "2": {
+                "title": "Facile",
+                "description": "Interfaccia semplice e intuitiva"
+            }
+        }
+    },
+    "commons": {
+        "description": "descrizione",
+        "btnActions": {
+            "back": "Indietro",
+            "accept": "Accetto",
+            "otherInfo" : "Ulteriori informazioni"
+        }
+    }
+}

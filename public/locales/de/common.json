@@ -1,0 +1,102 @@
+{
+    "navigation" : {
+        "home" : "Home",
+        "features" : "Funktionalität",
+        "expenseTracking" : "Ausgabenverfolgung",
+        "costCalculation" : "Kostenberechnung",
+        "periodicReminder" : "Periodische Erinnerung",
+        "expenseSharing" : "Ausgaben teilen",
+        "reportsAndAnalysis" : "Berichte und Analysen",
+        "pricing" : "Preisgestaltung",
+        "faq" : "FAQ",
+        "contacts" : "Kontakte",
+        "team" : "Team",
+        "privacy" : "Datenschutz",
+        "terms" : "Bedingungen",
+        "helpCenter" : "Hilfezentrum",
+        "serviceStatus" : "Dienststatus",
+        "emailNewsletter" : "E-Mail-Newsletter",
+        "suggestionsAndIdeas" : "Vorschläge und Ideen",
+        "support" : "Unterstützung",
+        "info" : "Info",
+        "about" : "Über",
+        "login" : "Anmeldung",
+        "register" : "Registrieren",
+        "logout" : "Ausloggen",
+        "expenseTrackingDescription" : "Verfolgen Sie Ihre Ausgaben",
+        "costCalculationDescription" : "Berechnen Sie die Kosten für Ihre Ausgaben",
+        "periodicReminderDescription" : "Erinnern Sie sich an Ihre Ausgaben",
+        "expenseSharingDescription" : "Teilen Sie Ihre Ausgaben mit anderen",
+        "reportsAndAnalysisDescription" : "Erstellen Sie Berichte und Analysen",
+        "appShortDescription" : "Behalten Sie Ihre Ausgaben im Auge, überwachen Sie Ihre Ausgaben und behalten Sie Ihr Budget im Auge."
+    },
+    "cookie": {
+        "banner": {
+            "title": "Cookie-Richtlinie",
+            "message" : "Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten. Wenn Sie fortfahren, ohne Ihre Cookie-Einstellungen zu ändern, gehen wir davon aus, dass Sie mit dem Empfang aller Cookies auf der Website einverstanden sind. Wenn Sie möchten, können Sie Ihre Cookie-Einstellungen jedoch jederzeit ändern. Weitere Informationen finden Sie in unserer Datenschutzrichtlinie."
+        },
+        "otherInformation" : {
+            "title" : "Cookie-Richtlinie",
+            "paragraph": {
+                "0" : {
+                    "title": "Technische Cookies",
+                    "description": "Technische Cookies sind für das ordnungsgemäße Funktionieren unserer Website unerlässlich. Dazu gehören:",
+                    "table": {
+                        "0_value": "language",
+                        "0_description": "Ermöglicht es Ihnen, die vom Benutzer ausgewählte Sprache zu speichern",
+                        "1_value": "cookie_consent",
+                        "1_description": "Ermöglicht es Ihnen, die Zustimmung des Benutzers zur Verwendung von Cookies zu speichern"
+                    }
+                },
+                "1": {
+                    "title": "Analytische Cookies",
+                    "description": "Wir verwenden analytische Cookies, um Informationen darüber zu sammeln, wie Besucher unsere Website nutzen. Diese Informationen helfen uns, unsere Website und die von uns angebotenen Dienste zu verbessern.",
+                    "table": {
+                        "0_value" : "Google Analytics",
+                        "0_description": "Ermöglicht es Ihnen, zu verstehen, wie Besucher mit der Website interagieren, indem sie Informationen anonym sammeln und melden"
+                    }
+                },
+                "2": {
+                    "title": "Zustimmung",
+                    "description": "Indem Sie weiterhin auf unserer Website surfen, stimmen Sie der Verwendung dieser Cookies zu. Sie können Ihre Cookie-Einstellungen jederzeit in Ihren Browsereinstellungen ändern."
+                }
+            }
+        }
+    },
+    "hero" : {
+        "title" : "Mit PayPatrol können Sie <1>verfolgen</1> und <1>sparen</1>",
+        "subTitle" : "Teilen Sie Ihre Ausgaben mit anderen Benutzern auf kollaborative Weise",
+        "features" : {
+            "0": "<b>Einfach zu bedienen</b> – mit einer einfachen und intuitiven Benutzeroberfläche",
+            "1": "<b>Kollaborativ</b> – Sie können Ihre Freunde und/oder Familie zur Zusammenarbeit einladen",
+            "2": "<b>Kostenloser Plan</b> – Sie können PayPatrol kostenlos nutzen"
+        },
+        "callToAction" : "Start now"
+    },
+    "features": {
+        "title": "Verschwenden Sie keine Zeit, starten Sie jetzt!",
+        "description": "Es ist schwierig, alle Ihre Aktivitäten im Auge zu behalten, aber mit unserem Service können Sie es einfach und schnell tun.",
+        "feature":{
+            "0": {
+                "title": "Performant",
+                "description": "Verwalten Sie wiederkehrende und nicht wiederkehrende Ausgaben und behalten Sie Abonnements und automatische Zahlungen im Auge"
+            },
+            "1": {
+                "title": "Kollaborativ",
+                "description": "Teilen Sie Ihre Ausgaben mit Freunden oder Familie auf kollaborative Weise"
+            },
+            "2": {
+                "title": "Einfach",
+                "description": "Einfache und intuitive Benutzeroberfläche"
+            }
+        }
+    },
+    "commons": {
+        "description": "Beschreibung",
+        "btnActions": {
+            "back": "Zurück",
+            "accept": "Akzeptieren",
+            "otherInfo" : "Weitere Informationen"
+        }
+    }
+}
